@@ -99,3 +99,6 @@ Support in research on issues of female contraception and Catholic censorship du
 <p style="font-size:12px">Dante Contreras: <i>Ph.D Economics UCLA and Tenured Professor at Universidad de Chile</i>, dcontrer@fen.uchile.cl
 
  -->
+ 
+ 
+ Go back to [Personal Site](https://isajacas.github.io/)
