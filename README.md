@@ -1,11 +1,11 @@
 # <center> Isabel M. Jacas </center>
 <center> <i>Economist and Data Scientist <br>
 she/her <br> </i> </center>
-
+<!-- 
 <b>Contact Information</b> <br>
 <i> [Email ConsiliumBots](mailto:isa@consiliumbots.com) / [Email TetherEd](mailto:isa@tether.education) </i> <br>
 ##### <i> [Schedule a meeting](|https://calendly.com/isajacas) </i> <br>
-
+ -->
 <!--
 <b>Education</b>
 <table border="0">
