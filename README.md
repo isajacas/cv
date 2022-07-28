@@ -25,7 +25,7 @@ she/her <br> </i> </center>
 * **Head of Data Science** @ [TetherEducation](https://www.tether.education/) _(July 2022 - Present)_ <br>
 Lead the team of data scientist, engineers and analysts to develop and innovate a school explorer platform in five countries, work on research related to schooling markets, and deploy monitoring and automatized reporting systems.
     * **_Softwares used:_** Stata, Python, SQL, Matlab.
-    * **_DB Management and workflow platforms used:_** DataGrip, Github, Jira, AWS, Notion.
+    * **_DB Management and workflow platforms used:_** DataGrip, Github, Jira, AWS.
 <br>
 
 * **Senior Research Specialist** @ [Princeton University](https://irs.princeton.edu/) - Prof. [Christopher Neilson](https://christopherneilson.github.io/) _(July 2021 - June 2022)_ <br>
@@ -37,7 +37,7 @@ Research Assistant on research related to school choice and public policy educat
 * **Data Scientist and Analyst** @ [ConsiliumBots](https://www.consiliumbots.com/) _(February 2019 - June 2021)_ <br>
 Data processing, preparation, and analysis on preliminary impact evaluations for multiple educational-policy projects in Latin America. Simulation and analysis of centralized school assignment systems.
     * **_Softwares used:_** Stata, Matlab, SQL, Latex.
-    * **_DB Management and workflow platforms used:_** Github, DataGrip, Jira.
+    * **_DB Management and workflow platforms used:_** Github, DataGrip, Jira, AWS.
 <br>
 
 * **External Consultant** @ [Inter-American Development Bank](https://www.iadb.org/) _(May 2020 - December 2020)_ <br>
