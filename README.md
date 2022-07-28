@@ -30,38 +30,38 @@ she/her <br> </i> </center>
 
 ### 💻 Professional Experience
 
-**Head of Data Science** @ [TetherEducation](https://www.tether.education/) _(July 2022 - Present)_ <br>
+* **Head of Data Science** @ [TetherEducation](https://www.tether.education/) _(July 2022 - Present)_ <br>
 Lead the team of data scientist, engineers and analysts to develop and innovate a school explorer platform in five countries, work on research related to schooling markets, and deploy monitoring and automatized reporting systems.
-- **_Softwares used:_** Stata, Python, SQL, Matlab.
-- **_DB Management and workflow platforms used:_** DataGrip, Github, Jira, AWS, Notion.
+    * **_Softwares used:_** Stata, Python, SQL, Matlab.
+    * **_DB Management and workflow platforms used:_** DataGrip, Github, Jira, AWS, Notion.
 <br>
 
-**Senior Research Specialist** @ [Princeton University](https://irs.princeton.edu/) - Prof. [Christopher Neilson](https://christopherneilson.github.io/) _(July 2021 - June 2022)_ <br>
+* **Senior Research Specialist** @ [Princeton University](https://irs.princeton.edu/) - Prof. [Christopher Neilson](https://christopherneilson.github.io/) _(July 2021 - June 2022)_ <br>
 Research Assistant on research related to school choice and public policy education in Latin America.
-- **_Softwares used:_** Stata, Matlab, Latex.
-- **_DB Management and workflow platforms used:_** Github, DataGrip.
+    * **_Softwares used:_** Stata, Matlab, Latex.
+    * **_DB Management and workflow platforms used:_** Github, DataGrip.
 <br>
 
-**Data Scientist and Analyst** @ [ConsiliumBots](https://www.consiliumbots.com/) _(February 2019 - June 2021)_ <br>
+* **Data Scientist and Analyst** @ [ConsiliumBots](https://www.consiliumbots.com/) _(February 2019 - June 2021)_ <br>
 Data processing, preparation, and analysis on preliminary impact evaluations for multiple educational-policy projects in Latin America. Simulation and analysis of centralized school assignment systems.
-- **_Softwares used:_** Stata, Matlab, SQL, Latex.
-- **_DB Management and workflow platforms used:_** Github, DataGrip, Jira.
+    * **_Softwares used:_** Stata, Matlab, SQL, Latex.
+    * **_DB Management and workflow platforms used:_** Github, DataGrip, Jira.
 <br>
 
-**External Consultant** @ [Inter-American Development Bank](https://www.iadb.org/) _(May 2020 - December 2020)_ <br>
+* **External Consultant** @ [Inter-American Development Bank](https://www.iadb.org/) _(May 2020 - December 2020)_ <br>
 Produce a technical note about the implementation of centralized choice assignment systems for schools based on pilots in Ecuador, Peru, and Brazil. See Publications and Work in Progress.</td>
-- **_Softwares used:_** Stata, Latex.
-- **_DB Management and workflow platforms used:_** Github.
+    * **_Softwares used:_** Stata, Latex.
+    * **_DB Management and workflow platforms used:_** Github.
 <br>
 
-**Research Coordinator** @ [Núcleo Milenio en Desarrollo Social](https://nucleodesoc.cl/) _(October 2018 - April 2019)_ <br>
+* **Research Coordinator** @ [Núcleo Milenio en Desarrollo Social](https://nucleodesoc.cl/) _(October 2018 - April 2019)_ <br>
 Research assistance in a health and education economics agenda. Coordination of seminars and presentations.</td>
-- **_Softwares used:_** Stata, Latex.
+    * **_Softwares used:_** Stata, Latex.
 <br>
 
-**Research Assistant** @ [Universidad de Chile](https://fen.uchile.cl/) - Prof. Francisco Pino _(August 2017 - September 2018)_ <br>
+* **Research Assistant** @ [Universidad de Chile](https://fen.uchile.cl/) - Prof. Francisco Pino _(August 2017 - September 2018)_ <br>
 Support in research on issues of female contraception and Catholic censorship during the counter-reform. </td>
-- **_Softwares used:_** Stata, Latex.
+    * **_Softwares used:_** Stata, Latex.
 <br>
 
 <!--
