@@ -76,12 +76,11 @@ Support in research on issues of female contraception and Catholic censorship du
 * Advanced: _Latex_, _Github_, _Atom_, _Jira_
 * Intermediate: _VS Code_
 
- 
- 
- ### 💬 Languages 
- * Native: _Spanish_
- * Fluent: _English_
- * Intermediate: _French_
+
+### 💬 Languages 
+* Native: _Spanish_
+* Fluent: _English_
+* Intermediate: _French_
 
 <br><br>
 
