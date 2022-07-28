@@ -19,15 +19,6 @@ she/her <br> </i> </center>
  </tr>
 </table> -->
 
-### 🎓 Education
-
-**MSc. in Economic Analysis**, _(2018 - 2019)_<br>
-[Universidad of Chile](https://www.uchile.cl/postgrados/92182/analisis-economico) - Santiago, Chile <br>
-
-**BSc. in Economics** _(2013-2018)_<br>
-[Universidad of Chile](https://fen.uchile.cl/) - Santiago, Chile <br>
-
-
 ### 💻 Professional Experience
 
 * **Head of Data Science** @ [TetherEducation](https://www.tether.education/) _(July 2022 - Present)_ <br>
@@ -64,6 +55,15 @@ Support in research on issues of female contraception and Catholic censorship du
     * **_Softwares used:_** Stata, Latex.
 <br>
 <br>
+
+### 🎓 Education
+
+**MSc. in Economic Analysis**, _(2018 - 2019)_<br>
+[Universidad of Chile](https://www.uchile.cl/postgrados/92182/analisis-economico) - Santiago, Chile <br>
+
+**BSc. in Economics** _(2013-2018)_<br>
+[Universidad of Chile](https://fen.uchile.cl/) - Santiago, Chile <br>
+
 
 ### 💻 Softwares and Database Management Environments
 * Advanced: _Stata_, _DataGrip_, _Matlab_
