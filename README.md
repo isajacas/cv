@@ -101,7 +101,11 @@ Support in research on issues of female contraception and Catholic censorship du
  </table> -->
 
 
- <b>Softwares and Database Management Environments</b>
+### 💻 Softwares and Database Management Environments
+* Advanced: _Stata_, _DataGrip_, _Matlab_
+* Intermediate: _Python_, _SQL_
+* Beginner: _Markdown_
+<!--  <b>Softwares and Database Management Environments</b>
  <table border="0">
   <tr>
   <td><i style="font-size:12px"><b> Advanced </b></i></td>
@@ -115,10 +119,12 @@ Support in research on issues of female contraception and Catholic censorship du
   <td><i style="font-size:12px"><b> Beginner </b></i></td>
   <td style="font-size:12px"> Markdown </td>
   </tr>
- </table>
+ </table> -->
 
-
- <b>Workflows, collaboration softwares, text editors</b>
+### 🔀 Workflows, collaboration softwares, text editors
+* Advanced: _Latex_, _Github_, _Atom_, _Jira_
+* Intermediate: _VS Code_
+<!--  <b>Workflows, collaboration softwares, text editors</b>
  <table border="0">
   <tr>
   <td><i style="font-size:12px"><b> Advanced </b></i></td>
@@ -129,8 +135,13 @@ Support in research on issues of female contraception and Catholic censorship du
   <td style="font-size:12px"> VS Code </td>
   </tr>
  </table>
-
-
+ -->
+ 
+ ### 💬 Languages 
+ * Native: _Spanish_
+ * Fluent: _English_
+ * Intermediate: _French_
+<!--  
  <b>Languages</b>
  <table border="0">
   <tr>
@@ -146,7 +157,8 @@ Support in research on issues of female contraception and Catholic censorship du
   <td style="font-size:12px"> French </td>
   </tr>
  </table>
-
+ -->
+ 
  <b>Publications and Work in Progress</b>
 
  <p style="font-size:12px">[Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/publications/english/document/Centralized-Student-Assignment-Systems-Implementation-Guide.pdf) <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
