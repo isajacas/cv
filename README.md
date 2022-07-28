@@ -51,7 +51,7 @@ Research assistance in a health and education economics agenda. Coordination of 
     * **_Softwares used:_** Stata, Latex.
 <br>
 
-* **Research Assistant** @ [Universidad de Chile](https://fen.uchile.cl/) - Prof. Francisco Pino _(August 2017 - September 2018)_ <br>
+* **Research Assistant** @ [Universidad de Chile](https://fen.uchile.cl/) - Prof. [Francisco Pino](http://www.franciscopino.com/Site/Home.html) _(August 2017 - September 2018)_ <br>
 Support in research on issues of female contraception and Catholic censorship during the counter-reform. </td>
     * **_Softwares used:_** Stata, Latex.
 <br>
