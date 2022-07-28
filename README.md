@@ -63,106 +63,31 @@ Research assistance in a health and education economics agenda. Coordination of 
 Support in research on issues of female contraception and Catholic censorship during the counter-reform. </td>
     * **_Softwares used:_** Stata, Latex.
 <br>
-
-<!--
-<b>Professional Experience</b>
-<table border="0">
-<tr>
-<td><i style="font-size:12px"> July 2022 - today </i></td>
-<td style="font-size:12px"><b>Head of Data Science </b> - <i> TetherEducation </i> <br>
-     Lead the team of data scientist, engineers and analysts to develop and innovate a school explorer platform in five countries, work on research related to schooling markets, and deploy monitoring and automatized reporting systems. </td>
-</tr>
-<tr>
-<td><i style="font-size:12px"> July 2021 - June 2022 </i></td>
-<td style="font-size:12px"><b>Senior Research Specialist </b> - <i> Prof. Christopher Neilson - Princeton University </i> <br>
-     Research Assistant of Professor [Christopher Neilson] (https://christopherneilson.github.io/) on research related to school choice and public policy education in Latin America. </td>
-</tr>
- <tr>
- <td><i style="font-size:12px"> February 2019 - June 2021</i></td>
- <td style="font-size:12px"><b>Data Scientist and Analyst </b> - <i> ConsiliumBots </i> <br>
-      Data processing, preparation, and analysis on preliminary impact evaluations for multiple educational-policy projects in Latin America. Simulation and analysis of centralized school assignment systems.
-      </td>
- </tr>
- <tr>
- <td><i style="font-size:12px"> May 2020 - December 2020</i></td>
- <td style="font-size:12px"><b>External Consultant </b> - <i> Inter-American Development Bank </i> <br>
-      Produce a technical note about the implementation of centralized choice assignment systems for schools based on pilots in Ecuador, Peru, and Brazil. See Publications and Work in Progress.</td>
- </tr>
- <tr>
- <td><i style="font-size:12px"> October 2018 - April 2019</i></td>
- <td style="font-size:12px"><b>Research Coordinator </b> - <i> Núcleo Milenio en Desarrollo Social </i> <br>
-      Research assistance in a health and education economics agenda. Coordination of seminars and presentations.</td>
- </tr>
- <tr>
- <td><i style="font-size:12px"> August 2017 - September 2018</i></td>
- <td style="font-size:12px"><b>Research Assistant </b> - <i> Prof. Francisco Pino - University of Chile </i> <br>
-      Support in research on issues of female contraception and Catholic censorship during the counter-reform.</td>
- </tr>
- </table> -->
-
+<br>
 
 ### 💻 Softwares and Database Management Environments
 * Advanced: _Stata_, _DataGrip_, _Matlab_
 * Intermediate: _Python_, _SQL_
 * Beginner: _Markdown_
-<!--  <b>Softwares and Database Management Environments</b>
- <table border="0">
-  <tr>
-  <td><i style="font-size:12px"><b> Advanced </b></i></td>
-  <td style="font-size:12px"> Stata, DataGrip, Matlab </td>
-  </tr>
-  <tr>
-  <td><i style="font-size:12px"><b> Intermediate </b></i></td>
-  <td style="font-size:12px"> Python, SQL </td>
-  </tr>
-  <tr>
-  <td><i style="font-size:12px"><b> Beginner </b></i></td>
-  <td style="font-size:12px"> Markdown </td>
-  </tr>
- </table> -->
+
+
 
 ### 🔀 Workflows, collaboration softwares, text editors
 * Advanced: _Latex_, _Github_, _Atom_, _Jira_
 * Intermediate: _VS Code_
-<!--  <b>Workflows, collaboration softwares, text editors</b>
- <table border="0">
-  <tr>
-  <td><i style="font-size:12px"><b> Advanced </b></i></td>
-  <td style="font-size:12px"> Latex, Github, Atom, Jira </td>
-  </tr>
-  <tr>
-  <td><i style="font-size:12px"><b> Intermediate </b></i></td>
-  <td style="font-size:12px"> VS Code </td>
-  </tr>
- </table>
- -->
+
  
  ### 💬 Languages 
  * Native: _Spanish_
  * Fluent: _English_
  * Intermediate: _French_
-<!--  
- <b>Languages</b>
- <table border="0">
-  <tr>
-  <td><i style="font-size:12px"><b> Native </b></i></td>
-  <td style="font-size:12px"> Spanish </td>
-  </tr>
-  <tr>
-  <td><i style="font-size:12px"><b> Fluent </b></i></td>
-  <td style="font-size:12px"> English </td>
-  </tr>
-  <tr>
-  <td><i style="font-size:12px"><b> Intermediate </b></i></td>
-  <td style="font-size:12px"> French </td>
-  </tr>
- </table>
- -->
+
+<br><br>
+
+** 📄 Publications and Work in Progress
+* [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/publications/english/document/Centralized-Student-Assignment-Systems-Implementation-Guide.pdf) <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
  
- <b>Publications and Work in Progress</b>
-
- <p style="font-size:12px">[Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/publications/english/document/Centralized-Student-Assignment-Systems-Implementation-Guide.pdf) <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
-
+<!-- 
  <p style="font-size:12px">The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2021 <br>
 
   <p style="font-size:12px">The welfare effects of including household preferences in school assignment systems : Evidence from Ecuador <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> Working Paper, 2021 <br>
@@ -173,3 +98,4 @@ Support in research on issues of female contraception and Catholic censorship du
 <p style="font-size:12px">Fabián Duarte: <i>Ph.D Economics Yale University and Assistant Professor at Universidad de Chile</i>, fabduarte@fen.uchile.cl <br>
 <p style="font-size:12px">Dante Contreras: <i>Ph.D Economics UCLA and Tenured Professor at Universidad de Chile</i>, dcontrer@fen.uchile.cl
 
+ -->
