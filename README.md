@@ -84,7 +84,7 @@ Support in research on issues of female contraception and Catholic censorship du
 
 <br><br>
 
-## 📄 Publications and Work in Progress
+### 📄 Publications and Work in Progress
 * [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/publications/english/document/Centralized-Student-Assignment-Systems-Implementation-Guide.pdf) <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
  
 <!-- 
