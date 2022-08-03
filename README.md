@@ -86,8 +86,11 @@ Support in research on issues of female contraception and Catholic censorship du
 <br><br>
 
 ### 📄 Publications and Work in Progress
-* [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/publications/english/document/Centralized-Student-Assignment-Systems-Implementation-Guide.pdf) <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
- 
+* <b> [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/publications/english/document/Centralized-Student-Assignment-Systems-Implementation-Guide.pdf) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
+
+* <b> Reporting and rewarding performance: parental preferences and school choice in Haiti </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, Anne Sofie Olsen </i> <br> Working Paper, 2020 <br>
+
+
 <!-- 
  <p style="font-size:12px">The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2021 <br>
 
