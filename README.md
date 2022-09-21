@@ -2,7 +2,7 @@
 # <center> Curriculum Vitae </center>
 <center> <i>Economist and Data Scientist <br>
 she/her <br> </i> </center>
-<!-- 
+<!--
 <b>Contact Information</b> <br>
 <i> [Email ConsiliumBots](mailto:isa@consiliumbots.com) / [Email TetherEd](mailto:isa@tether.education) </i> <br>
 ##### <i> [Schedule a meeting](|https://calendly.com/isajacas) </i> <br>
@@ -60,10 +60,16 @@ Support in research on issues of female contraception and Catholic censorship du
 ### 🎓 Education
 
 **MSc. in Economic Analysis**, _(2018 - 2019)_<br>
-[Universidad of Chile](https://www.uchile.cl/postgrados/92182/analisis-economico) - Santiago, Chile <br>
+[Universidad de Chile](https://www.uchile.cl/postgrados/92182/analisis-economico) - Santiago, Chile <br>
 
 **BSc. in Economics** _(2013-2018)_<br>
-[Universidad of Chile](https://fen.uchile.cl/) - Santiago, Chile <br>
+[Universidad de Chile](https://fen.uchile.cl/) - Santiago, Chile <br>
+
+
+### 🎓 Professional Certificates
+
+** Certification of Python Programming and Applications** _(2022-2023)_<br>
+[Pontificia Universidad Católica de Chile](https://www.ing.uc.cl/) - Santiago, Chile <br>
 
 
 ### 💻 Softwares and Database Management Environments
@@ -78,7 +84,7 @@ Support in research on issues of female contraception and Catholic censorship du
 * Intermediate: _VS Code_
 
 
-### 💬 Languages 
+### 💬 Languages
 * Native: _Spanish_
 * Fluent: _English_
 * Intermediate: _French_
@@ -88,10 +94,10 @@ Support in research on issues of female contraception and Catholic censorship du
 ### 📄 Publications and Work in Progress
 * <b> [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/publications/english/document/Centralized-Student-Assignment-Systems-Implementation-Guide.pdf) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
 
-* <b> Reporting and rewarding performance: parental preferences and school choice in Haiti </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, Anne Sofie Olsen </i> <br> Working Paper, 2020 <br>
+* <b> Report Cards: Parental Preferences, Information and School Choice in Haiti </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, Anne Sofie Olsen </i> <br> Working Paper, 2022 <br>
 
 
-<!-- 
+<!--
  <p style="font-size:12px">The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2021 <br>
 
   <p style="font-size:12px">The welfare effects of including household preferences in school assignment systems : Evidence from Ecuador <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> Working Paper, 2021 <br>
@@ -103,6 +109,6 @@ Support in research on issues of female contraception and Catholic censorship du
 <p style="font-size:12px">Dante Contreras: <i>Ph.D Economics UCLA and Tenured Professor at Universidad de Chile</i>, dcontrer@fen.uchile.cl
 
  -->
- 
- 
+
+
  Go back to [Personal Site](https://isajacas.github.io/)
