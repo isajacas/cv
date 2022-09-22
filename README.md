@@ -111,11 +111,11 @@ Support in research on issues of female contraception and Catholic censorship du
 
 * <b> Report Cards: Parental Preferences, Information and School Choice in Haiti </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, Anne Sofie Olsen </i> <br> Working Paper, 2022 <br>
 
+* <b> The welfare effects of including household preferences in school assignment systems : Evidence from Ecuador </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> Working Paper, 2022 <br>
+
+ * <b> The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile </b> <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2022 <br>
 
 <!--
- <p style="font-size:12px">The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2021 <br>
-
-  <p style="font-size:12px">The welfare effects of including household preferences in school assignment systems : Evidence from Ecuador <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> Working Paper, 2021 <br>
 
  <b>References</b>
 
