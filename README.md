@@ -37,7 +37,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ### 💻 Professional Experience
 
-* **Head of Data Science** @ [TetherEducation](https://www.tether.education/) _(July 2022 - Present)_ <br>
+* **Data Team Lead** @ [TetherEducation](https://www.tether.education/) _(July 2022 - Present)_ <br>
 Lead the team of data scientist, engineers and analysts to develop and innovate a school explorer platform in five countries, work on research related to schooling markets, and deploy monitoring and automatized reporting systems.
     * **_Softwares used:_** Stata, Python, SQL, Matlab.
     * **_DB Management and workflow platforms used:_** DataGrip, Github, Jira, AWS.
