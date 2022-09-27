@@ -66,12 +66,12 @@ Support in research on issues of female contraception and Catholic censorship du
 **BSc. in Economics** _(2013-2018)_<br>
 [Universidad de Chile](https://fen.uchile.cl/) - Santiago, Chile <br>
 
-
+<!--
 ### 🎓 Professional Certificates
 
-** Certification of Python Programming and Applications** _(2022-2023)_<br>
+**Certification of Python Programming and Applications** _(2022-2023)_<br>
 [Pontificia Universidad Católica de Chile](https://www.ing.uc.cl/) - Santiago, Chile <br>
-
+ -->
 
 ### 💻 Softwares and Database Management Environments
 * Advanced: _Stata_, _DataGrip_, _Matlab_
