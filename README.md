@@ -23,7 +23,11 @@ she/her <br> </i> </center>
 
 ### 💻 Professional Experience
 
-* **Data Team Lead** @ [TetherEducation](https://www.tether.education/) _(July 2022 - Present)_ <br>
+* **Consultant** @ [Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - Present)_ <br>
+Consultant at the Social Development Division of ECLAC, working on analyses and technical assistance to Latin American countries regarding their social protection systems.
+<br>
+
+* **Data Team Lead** @ [TetherEducation](https://www.tether.education/) _(July 2022 - November 2022)_ <br>
 Lead the team of data scientist, engineers and analysts to develop and innovate a school explorer platform in five countries, work on research related to schooling markets, and deploy monitoring and automatized reporting systems.
     * **_Softwares used:_** Stata, Python, SQL, Matlab.
     * **_DB Management and workflow platforms used:_** DataGrip, Github, Jira, AWS.
