@@ -103,7 +103,7 @@ Support in research on issues of female contraception and Catholic censorship du
 
 * <b> The welfare effects of including household preferences in school assignment systems : Evidence from Ecuador </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> Working Paper, 2022 <br>
 
- * <b> Incentivando alunos vulneráveis a cursarem escolas integrais: evidencias sobre o uso de nudge em Pernambuco </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Technical Note N° IDB-TN-2618, December 2022 <br>
+ * <b> [Incentivando alunos vulneráveis a cursarem escolas integrais: evidencias sobre o uso de nudge em Pernambuco](https://publications.iadb.org/pt/incentivando-alunos-vulneraveis-cursarem-escolas-integrais-evidencias-sobre-o-uso-de-nudge-em) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Technical Note N° IDB-TN-2618, December 2022 <br>
 
 <!--
 
