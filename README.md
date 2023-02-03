@@ -103,9 +103,13 @@ Support in research on issues of female contraception and Catholic censorship du
 
 * <b> The welfare effects of including household preferences in school assignment systems : Evidence from Ecuador </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> Working Paper, 2022 <br>
 
- * <b> The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile </b> <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2022 <br>
+ * <b> Incentivando alunos vulneráveis a cursarem escolas integrais: evidencias sobre o uso de nudge em Pernambuco </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Technical Note N° IDB-TN-2618, December 2022 <br>
 
 <!--
+
+ * <b> The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile </b> <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2022 <br>
+
+
 
  <b>References</b>
 
