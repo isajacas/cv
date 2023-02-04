@@ -23,7 +23,7 @@ she/her <br> </i> </center>
 
 ### 💻 Professional Experience
 
-* **Consultant** @ [Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - Present)_ <br>
+* **Consultant** @ [United Nations Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - Present)_ <br>
 Consultant at the Social Development Division of ECLAC, working on analyses and technical assistance to Latin American countries regarding their social protection systems.
 <br>
 
