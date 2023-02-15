@@ -101,7 +101,7 @@ Support in research on issues of female contraception and Catholic censorship du
 
 * <b> Report Cards: Parental Preferences, Information and School Choice in Haiti </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, Anne Sofie Olsen </i> <br> Working Paper, 2022 <br>
 
-* <b> The welfare effects of including household preferences in school assignment systems : Evidence from Ecuador </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> Working Paper, 2022 <br>
+ * <b> [The Welfare Effects of including Household Preferences in School Assignment Systems: Evidence from Ecuador](https://publications.iadb.org/en/welfare-effects-including-household-preferences-school-assignment-systems-evidence-ecuador) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Working Paper Series  N° IDB-WP-01420, November 2022 <br>
 
  * <b> [Incentivando alunos vulneráveis a cursarem escolas integrais: evidencias sobre o uso de nudge em Pernambuco](https://publications.iadb.org/pt/incentivando-alunos-vulneraveis-cursarem-escolas-integrais-evidencias-sobre-o-uso-de-nudge-em) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Technical Note N° IDB-TN-2618, December 2022 <br>
 
