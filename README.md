@@ -24,7 +24,7 @@ she/her <br> </i> </center>
 ### 💻 Professional Experience
 
 * **Consultant** @ [United Nations Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - Present)_ <br>
-Consultant at the Social Development Division of ECLAC, working on analyses and technical assistance to Latin American countries regarding their social protection systems.
+Consultant at the Social Development Division of ECLAC, working on analyses and technical assistance to Latin American countries regarding their social protection systems. Joint project between ECLAC and BMZ/giz ”Recover Better: Overcoming the COVID-19 Pandemic Con- sequences in Latin America and the Caribbean (LAC)”
 <br>
 
 * **Data Team Lead** @ [TetherEducation](https://www.tether.education/) _(July 2022 - November 2022)_ <br>
