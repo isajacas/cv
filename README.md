@@ -105,9 +105,10 @@ Support in research on issues of female contraception and Catholic censorship du
 * <b> [The Welfare Effects of including Household Preferences in School Assignment Systems: Evidence from Ecuador](https://publications.iadb.org/en/welfare-effects-including-household-preferences-school-assignment-systems-evidence-ecuador) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Working Paper Series  N° IDB-WP-01420, November 2022 <br>
 
 
-* <b> [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/en/centralized-student-assignment-systems-implementation-guide) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <br>
+* <b> [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/en/centralized-student-assignment-systems-implementation-guide) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <be>
 
-* <b> Report Cards: Parental Preferences, Information and School Choice in Haiti </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, Anne Sofie Olsen </i> <br> Working Paper, 2022 <br>
+
+* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://publications.iadb.org/en/report-cards-parental-preferences-information-and-school-choice-haiti) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> IDB Working Paper Series N° IDB-WP-01470, May 2023. R&R Economics of Education Review <br>
  
  
 <!--
