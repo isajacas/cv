@@ -78,15 +78,14 @@ Support in research on issues of female contraception and Catholic censorship du
  -->
 
 ### 💻 Softwares and Database Management Environments
-* Advanced: _Stata_, _DataGrip_, _Matlab_
-* Intermediate: _Python_, _SQL_
+* Advanced: _Stata_, _DataGrip_, _Matlab_, _SQL_
+* Intermediate: _Python_, _R_
 * Beginner: _Markdown_
 
 
 
 ### 🔀 Workflows, collaboration softwares, text editors
-* Advanced: _Latex_, _Github_, _Atom_, _Jira_
-* Intermediate: _VS Code_
+* Advanced: _Latex_, _Github_, _Atom_, _Jira_, _VS Code_, _Zotero_
 
 
 ### 💬 Languages
