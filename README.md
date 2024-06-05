@@ -107,7 +107,7 @@ Support in research on issues of female contraception and Catholic censorship du
 * <b> [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/en/centralized-student-assignment-systems-implementation-guide) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <be>
 
 
-* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://publications.iadb.org/en/report-cards-parental-preferences-information-and-school-choice-haiti) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> IDB Working Paper Series N° IDB-WP-01470, May 2023. R&R Economics of Education Review <br>
+* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2106&context=egcenter-discussion-paper-series) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> EGC Discussion Papers. 1106, May 2024. R&R Economics of Education Review <br>
  
  
 <!--
