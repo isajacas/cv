@@ -96,6 +96,13 @@ Support in research on issues of female contraception and Catholic censorship du
 <br><br>
 
 ### 📄 Publications and Work in Progress
+
+* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2106&context=egcenter-discussion-paper-series) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> EGC Discussion Papers. 1106, May 2024. R&R Economics of Education Review <br>
+
+* <b> The future of social protection: challenges posed by a reconfigured risk structure </b> <br> <i> Raúl Holz, Isabel Jacas, Claudia Robles </i> <br> Chapter in [The future of social protection in the midst of a protracted social crisis in Latin America: Advancing towards universal, comprehensive, sustainable and resilient systems](https://repositorio.cepal.org/server/api/core/bitstreams/a78ff55b-7552-401f-bf14-d279e9c3c57a/content), Social Policy Series - Economic Commission for Latin America and the Caribbean (ECLAC), 2024 <be>
+
+* <b> Strategic guidelines to meet the challenges of future social protection </b> <br> <i> Nincen Figueroa, Isabel Jacas, María Luisa Marinho, Claudia Robles </i> <br> Chapter in [The future of social protection in the midst of a protracted social crisis in Latin America: Advancing towards universal, comprehensive, sustainable and resilient systems](https://repositorio.cepal.org/server/api/core/bitstreams/a78ff55b-7552-401f-bf14-d279e9c3c57a/content), Social Policy Series - Economic Commission for Latin America and the Caribbean (ECLAC), 2024 <be>
+
 * <b> [Los desafíos de la protección social de los trabajadores de plataformas: reflexiones para América Latina](https://www.cepal.org/es/publicaciones/68021-desafios-la-proteccion-social-trabajadores-plataformas-reflexiones-america) </b> <br> <i> Claudia Robles, Victoria Tenenbaum, Isabel Jacas </i> <br> Documentos de Proyectos (LC/TS.2023/116), Comisión Económica para América Latina y el Caribe (CEPAL), Septiembre 2023 <br>
 
 * <b> [Incentivando alunos vulneráveis a cursarem escolas integrais: evidencias sobre o uso de nudge em Pernambuco](https://publications.iadb.org/pt/incentivando-alunos-vulneraveis-cursarem-escolas-integrais-evidencias-sobre-o-uso-de-nudge-em) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Technical Note N° IDB-TN-2618, December 2022 <br>
@@ -104,15 +111,13 @@ Support in research on issues of female contraception and Catholic censorship du
 * <b> [The Welfare Effects of including Household Preferences in School Assignment Systems: Evidence from Ecuador](https://publications.iadb.org/en/welfare-effects-including-household-preferences-school-assignment-systems-evidence-ecuador) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson </i> <br> IDB Working Paper Series  N° IDB-WP-01420, November 2022 <br>
 
 
+ * <b> The Effects of Adjusting Socioeconomic Reserves to Local Conditions in Chile's Centralized PreK Choice </b> <br> <i> Thomas Krussig and Isabel Jacas </i> <br> Working Paper, 2023 <br>
+
 * <b> [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/en/centralized-student-assignment-systems-implementation-guide) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <be>
-
-
-* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2106&context=egcenter-discussion-paper-series) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> EGC Discussion Papers. 1106, May 2024. R&R Economics of Education Review <br>
  
  
 <!--
 
- * <b> The Limits of (good) School Choice Mechanism Design to Reduce Segregation and Inequality: The case of Chile </b> <br> <i> Isabel Jacas and Thomas Krussig </i> <br> Working Paper, 2022 <br>
 
 
 
