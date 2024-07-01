@@ -97,7 +97,7 @@ Support in research on issues of female contraception and Catholic censorship du
 
 ### 📄 Publications and Work in Progress
 
-* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2106&context=egcenter-discussion-paper-series) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> EGC Discussion Papers. 1106, May 2024. R&R Economics of Education Review <br>
+* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2106&context=egcenter-discussion-paper-series) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> EGC Discussion Papers. 1106, May 2024. Accepted (07 July 2024) Economics of Education Review <br>
 
 * <b> The future of social protection: challenges posed by a reconfigured risk structure </b> <br> <i> Raúl Holz, Isabel Jacas, Claudia Robles </i> <br> Chapter in [The future of social protection in the midst of a protracted social crisis in Latin America: Advancing towards universal, comprehensive, sustainable and resilient systems](https://repositorio.cepal.org/server/api/core/bitstreams/a78ff55b-7552-401f-bf14-d279e9c3c57a/content), Social Policy Series - Economic Commission for Latin America and the Caribbean (ECLAC), 2024 <be>
 
