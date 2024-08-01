@@ -23,7 +23,12 @@ she/her <br> </i> </center>
 
 ### 💻 Professional Experience
 
-* **Consultant** @ [United Nations Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - Present)_ <br>
+* **Consultant / Individual Specialist** @ [International Institute for Educational Planning - UNESCO](https://www.iiep.unesco.org/en) _(March 2024 - Present)_ <br>
+Individual specialist preparing a study on how digital tools can help improve transparency and accountability in education, focused on centralised
+teacher and student assignment in Latin America.
+<br>
+
+* **Consultant** @ [United Nations Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - July 2024)_ <br>
 Consultant at the Social Development Division of ECLAC, working on analyses and technical assistance to Latin American countries regarding their social protection systems. Joint project between ECLAC and BMZ/giz ”Recover Better: Overcoming the COVID-19 Pandemic Con- sequences in Latin America and the Caribbean (LAC)”
 <br>
 
