@@ -28,7 +28,7 @@ Individual specialist preparing a study on how digital tools can help improve tr
 teacher and student assignment in Latin America.
 <br>
 
-* **Consultant** @ [United Nations Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - July 2024)_ <br>
+* **Consultant** @ [United Nations Economic Commission for Latin America and the Caribbean](https://www.cepal.org/) _(December 2022 - June 2024)_ <br>
 Consultant at the Social Development Division of ECLAC, working on analyses and technical assistance to Latin American countries regarding their social protection systems. Joint project between ECLAC and BMZ/giz ”Recover Better: Overcoming the COVID-19 Pandemic Con- sequences in Latin America and the Caribbean (LAC)”
 <br>
 
@@ -83,9 +83,8 @@ Support in research on issues of female contraception and Catholic censorship du
  -->
 
 ### 💻 Softwares and Database Management Environments
-* Advanced: _Stata_, _DataGrip_, _Matlab_, _SQL_
-* Intermediate: _Python_, _R_
-* Beginner: _Markdown_
+* Advanced: _STATA_, _Matlab_, _SQL_, _DataGrip_
+* Intermediate: _Python_, _R_, _Markdown_
 
 
 
@@ -102,7 +101,7 @@ Support in research on issues of female contraception and Catholic censorship du
 
 ### 📄 Publications and Work in Progress
 
-* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2106&context=egcenter-discussion-paper-series) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> EGC Discussion Papers. 1106, May 2024. Accepted (July 7, 2024) Economics of Education Review <br>
+* <b> [Report Cards: Parental Preferences, Information and School Choice in Haiti](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2106&context=egcenter-discussion-paper-series) </b> <br> <i> Michael Borger, Gregory Elacqua, Isabel Jacas, Christopher Neilson, and Anne Sofie Westh Olsen </i> <br> Economics of Education Review, Volume 102, https://doi.org/10.1016/j.econedurev.2024.102560 <br>
 
 * <b> The future of social protection: challenges posed by a reconfigured risk structure </b> <br> <i> Raúl Holz, Isabel Jacas, Claudia Robles </i> <br> Chapter in [The future of social protection in the midst of a protracted social crisis in Latin America: Advancing towards universal, comprehensive, sustainable and resilient systems](https://repositorio.cepal.org/server/api/core/bitstreams/a78ff55b-7552-401f-bf14-d279e9c3c57a/content), Social Policy Series - Economic Commission for Latin America and the Caribbean (ECLAC), 2024 <be>
 
