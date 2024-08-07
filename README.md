@@ -1,7 +1,7 @@
 
 <!-- # <center> Isabel M. Jacas </center> -->
 # <center> Curriculum Vitae </center>
-<center> <i>Economist and Data Scientist <br>
+<center> <i>Economist<br>
 she/her <br> </i> </center>
 <!--
 <b>Contact Information</b> <br>
