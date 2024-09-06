@@ -1,5 +1,6 @@
 
 <!-- # <center> Isabel M. Jacas </center> -->
+<!--
 # <center> Curriculum Vitae </center>
 <center> <i>Economist<br>
 she/her <br> </i> </center>
@@ -20,7 +21,7 @@ she/her <br> </i> </center>
  <td style="font-size:12px"><b>BSc. in Economics</b>, University of Chile. <i> Ranked 4/54</i></td>
  </tr>
 </table> -->
-
+<!--
 ### 💻 Professional Experience
 
 * **Consultant / Individual Specialist** @ [International Institute for Educational Planning - UNESCO](https://www.iiep.unesco.org/en) _(March 2024 - Present)_ <br>
@@ -74,14 +75,14 @@ Support in research on issues of female contraception and Catholic censorship du
 
 **BSc. in Economics** _(2013-2018)_<br>
 [Universidad de Chile](https://fen.uchile.cl/) - Santiago, Chile <br>
-
+ -->
 <!--
 ### 🎓 Professional Certificates
 
 **Certification of Python Programming and Applications** _(2022-2023)_<br>
 [Pontificia Universidad Católica de Chile](https://www.ing.uc.cl/) - Santiago, Chile <br>
  -->
-
+<!--
 ### 💻 Softwares and Database Management Environments
 * Advanced: _STATA_, _Matlab_, _SQL_, _DataGrip_
 * Intermediate: _Python_, _R_, _Markdown_
@@ -119,7 +120,7 @@ Support in research on issues of female contraception and Catholic censorship du
 
 * <b> [Centralized Student Assignment Systems: Implementation Guide](https://publications.iadb.org/en/centralized-student-assignment-systems-implementation-guide) </b> <br> <i> Gregory Elacqua, Isabel Jacas, Thomas Krussig, Carolina Méndez, Christopher Neilson, Alonso Román, and Sammara Soares </i> <br> IDB Technical Note N° IDB-TN-2184, June 2021 <be>
  
- 
+ -->
 <!--
 
 
@@ -133,5 +134,6 @@ Support in research on issues of female contraception and Catholic censorship du
 
  -->
 
-
+<!--
  Go back to [Personal Site](https://isajacas.github.io/)
+ -->
